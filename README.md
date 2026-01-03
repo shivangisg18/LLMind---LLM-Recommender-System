@@ -29,7 +29,7 @@ Combines explicit mention detection with subreddit-based inference
 
 Maps all mentions to standardized parent LLM brands
 
-### 4) [Knowledge Base] (Knowledge%20Base.ipynb)
+### 4) [Knowledge Base](Knowledge%20Base.ipynb)
 
 Merges use-case labels, sentiment, and LLM identity
 
