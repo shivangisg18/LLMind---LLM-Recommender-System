@@ -9,9 +9,8 @@ The system is built as a modular NLP pipeline that transforms raw Reddit discuss
 
 ### 1) [Topic Modeling](Topic%20Modeling.ipynb)
 
-Analyzes ~2,440 Reddit posts from major LLM communities
-
-Uses BERTopic to identify 10 core user use cases, covering both practical tasks (e.g., coding, image generation) and common pain points
+- Analyzes ~2,440 Reddit posts from major LLM communities
+- Uses BERTopic to identify 10 core user use cases, covering both practical tasks (e.g., coding, image generation) and common pain points
 
 ### 2) [Sentiment Analysis](Sentiment%20Analysis.ipynb)
 
