@@ -22,7 +22,7 @@ The system is built as a modular NLP pipeline that transforms raw Reddit discuss
 - Classifies posts as positive, negative, or neutral
 - Captures nuanced user feedback beyond rule-based sentiment methods
 
-### 3) [LLM Identification](NER.ipynb)
+### 3) [LLM Identification - Named Entirty Recognition](NER.ipynb)
 
 - Determines which LLM is discussed in each post
 - Combines explicit mention detection with subreddit-based inference
